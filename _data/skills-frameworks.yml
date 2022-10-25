@@ -5,29 +5,31 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+#TODO : Continue from here
+
+- name: .Net framework
   weight: 5
 
-- name: AngularJS
+- name: Tensorflow
   weight: 3
 
-- name: React
+- name: React/React Native
   weight: 4
 
-- name: Node
-  weight: 1
+- name: QT C++
+  weight: 5
+
+- name: Node.js
+  weight: 2
 
 - name: Flutter
   weight: 2
 
-- name: Express
+- name: Express.js
   weight: 3
 
-- name: Django
+- name: Scikit-learn
   weight: 1
 
-- name: Spring
+- name: Kubernetes
   weight: 2
-
-- name: Rails
-  weight: 4

@@ -5,22 +5,15 @@
 # - name: Language
 #   weight: 5
 
-- name: TypeScript
+#TODO : Continue from here
+
+- name: C#, VB.Net
   weight: 5
 
-- name: JavaScript
-  weight: 4
-
-- name: Python
-  weight: 2
-
-- name: HTML5
-  weight: 4
-
-- name: CSS3
+- name: JavaScript, HTML, CSS
   weight: 3
 
-- name: SASS
+- name: Python
   weight: 3
 
 - name: Java
@@ -29,14 +22,5 @@
 - name: Dart
   weight: 1
 
-- name: Swift
-  weight: 1
-
-- name: Kotlin
-  weight: 1
-
-- name: C++
-  weight: 2
-
-- name: Ruby
-  weight: 2
+- name: C/C++
+  weight: 4

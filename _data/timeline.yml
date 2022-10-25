@@ -17,45 +17,46 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Pomelo Pay
+  title-url: https://www.pomelopay.com/
+  date: June 2022 - Present
+  subtitle: Blockchain Full Stack Developer
   tags:
-    - tag: React
+    - tag: Solidity
+    - tag: Javascript / Typescript
+    - tag: mySQL
+    - tag: Zero Proof Knowledge (zk-SNARK/ zk-STARK)
+    - tag: Linux system administrator
+  timeline-side: right
+
+- title: Willowglen MSC Bhd
+  title-url: https://www.willowglen.com.my/
+  date: June 2019 - June 2022
+  subtitle: Project Software Engineer
+  tags:
+    - tag: C
     - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: C++
+    - tag: Linux system administrator
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: TimeTec Computing Sdn Bhd
+  title-url: https://www.timeteccloud.com/
+  date: Sep 2018 - Dec 2018
+  subtitle: R&D Engineer as Intern
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: VB.Net
+    - tag: MS-SQL
+    - tag: JavaScript Webservices
+    - tag: Third-party SDK
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: UCSI University
+  title-url: https://www.ucsiuniversity.edu.my/
+  date: May 2015 - May 2019
+  subtitle: Electronic & Communication Engineering
+  tags:
+    - tag: C++
+    - tag: Verilog
+    - tag: Assembly Language
   timeline-side: left
