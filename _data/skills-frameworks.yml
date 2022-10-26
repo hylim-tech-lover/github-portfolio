@@ -5,9 +5,7 @@
 # - name: Framework
 #   weight: 5
 
-#TODO : Continue from here
-
-- name: .Net framework
+- name: NodeJS
   weight: 5
 
 - name: Tensorflow
@@ -16,11 +14,8 @@
 - name: React/React Native
   weight: 4
 
-- name: QT C++
+- name: Hardhat / Ethers.js
   weight: 5
-
-- name: Node.js
-  weight: 2
 
 - name: Flutter
   weight: 2
@@ -28,8 +23,8 @@
 - name: Express.js
   weight: 3
 
-- name: Scikit-learn
-  weight: 1
-
 - name: Kubernetes
   weight: 2
+
+- name: MySQL
+  weight: 4

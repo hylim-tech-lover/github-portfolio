@@ -5,12 +5,13 @@
 # - name: Language
 #   weight: 5
 
-#TODO : Continue from here
-
-- name: C#, VB.Net
+- name: Javascript/ Typescript
   weight: 5
 
-- name: JavaScript, HTML, CSS
+- name: Solidity
+  weight: 4
+
+- name: C#, VB.Net
   weight: 3
 
 - name: Python

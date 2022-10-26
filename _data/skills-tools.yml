@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: Git
-  weight: 3
+  weight: 5
 
 - name: Jenkins
   weight: 1
@@ -14,17 +14,11 @@
 - name: Chrome DevTools
   weight: 1
 
-- name: npm
-  weight: 2
+- name: npm / yarn
+  weight: 4
 
 - name: VS Code
-  weight: 3
-
-- name: VS Studio
   weight: 5
-
-- name: QT Designer
-  weight: 3
 
 - name: Postman
   weight: 4
