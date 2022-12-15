@@ -101,6 +101,7 @@ projects:
     fork: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
+      - hylim-tech-lover
       - markdown-portfolio
       - hello-github-actions
       - github-slideshow
